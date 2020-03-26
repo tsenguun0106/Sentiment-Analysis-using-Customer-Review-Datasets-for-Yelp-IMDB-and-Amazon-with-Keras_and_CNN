@@ -1,4 +1,4 @@
-# tsenguun0106-gmail.com
+# Sentiment Analysis using Customer Review Datasets for Yelp, IMDB, and Amazon with Keras_Tsenguun_Enkhbaatar
 Sentiment Analysis using Customer Review Datasets for Yelp, IMDB, and Amazon with Keras_Tsenguun_Enkhbaatar
 
 In this analysis, I conduct Sensitive Analysis using Amazon, Yelp, and IMDB datsets. 
